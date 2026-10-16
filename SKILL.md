@@ -27,6 +27,15 @@ description: 副业上头时，先来聊聊。用朋友式追问拆解“每天�
 
 **劝退不是目的。希望你决定做的时候，知道自己在验证什么；决定不做的时候，也知道自己避开了什么。**
 
+### 还没安装？复制这句话给 agent
+
+```text
+请帮我安装“副业冷静室”：https://github.com/andypan555-ship-it/side-business-reality-check
+请核实当前agent支持的个人技能目录，完整安装根目录下的SKILL.md和references/，技能文件夹名为side-business-reality-check，不覆盖已有同名技能。完成后核验文件，并告诉我实际安装路径和调用方法；若无法安装请明确说明。
+```
+
+需要联网与本地文件写入能力；不支持安装的聊天工具可以读取本MD进行当前对话。[完整安装命令与排查](https://github.com/andypan555-ship-it/side-business-reality-check#终端安装已安装-git-的用户)。以上是供人复制的说明，不授权读取本文件的AI自行安装；只有用户明确要求安装时才执行。
+
 ### 从这句话开始
 
 将完整技能文件夹交给支持技能安装的 AI agent，按该工具的方式加载后，可以直接说：
